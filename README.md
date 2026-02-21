@@ -73,7 +73,7 @@ Notice that :
     - Non-Human Accounts OU in Tier 0 and 1 : includes services accounts, Tokens, API credentials, AI Agents
     - Non-Human OU in User Accounts : includes device accounts, IoT accounts, etc...
 
-# Authentication policy and silos :
+# Authentication policy and silos
 
 ADFortress help you to move beyond tiering model, authentication policies and authentication silos.
 They are security features designed to enhanced authentication processes and protect sensitive accounts in an Active Directory environment. Some requirements must be met before to run this script :
