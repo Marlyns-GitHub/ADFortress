@@ -16,7 +16,7 @@ The idea behind the ADFortress script is to automate the hardening of the Active
     - Configure CIS Hardening Active Directory
     - Implement Active Directory Tiering Model
     - Advanced configuration such as (Proxy, Windows firewall, Event Logs)
-    - Fortify User right assignments
+    - Fortify User rights assignment
     - Implement Authentication silos
 
 #  Disable and Enable critical protocols and services
