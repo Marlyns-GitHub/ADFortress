@@ -1385,7 +1385,7 @@ Function Set-LocalAdminGroup (){
                                 
                     if ( $VersionNumber.versionNumber -eq "4" )
                         {
-                            Write-Host "Local Admin for Tier0 PAW already configured" -ForegroundColor DarkGray
+                            Write-Host "Local Admin for Tier1 JumpSRV already configured" -ForegroundColor DarkGray
                         }
                     else
                         {
@@ -1433,7 +1433,7 @@ Function Set-LocalAdminGroup (){
 
                     if ( $VersionNumber.versionNumber -eq "4" )
                         {
-                            Write-Host "Local Admin for App Servers already configured" -ForegroundColor DarkGray
+                            Write-Host "Local Admin for Tier1 App Servers already configured" -ForegroundColor DarkGray
                         }
                     else
                         {
