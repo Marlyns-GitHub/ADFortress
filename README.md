@@ -89,6 +89,8 @@ After downloading the package, move into ADFortress and PowerShell Run As
 
 # Conclusion
 
-ADFortress allows you to build a strong Active Directory environment, it delivers secure defaults and mapping to CIS Benchmark, Microsoft Security Guide and other frameworks. Ready-to-use tool that makes complexity an abstraction for users, fortify your Active Directory in one click.
+ADFortress allows you to build a strong Active Directory environment, it delivers secure defaults and mapping to CIS Benchmark, Microsoft Security Guide and other frameworks.
+
+Ready-to-use tool that makes complexity an abstraction for users, fortify your Active Directory in one click.
 
 
