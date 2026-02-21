@@ -81,6 +81,12 @@ They are security features designed to enhanced authentication processes and pro
     - Domain Tier0 AuthSilo Devices : All computers will be assigned to the authentication silos must be members of this security group.
     - Domain Tier0 AuthSilo Members : All users will be assigned to the authentication silos must be members of this security group.
 
+# How to use ADFortress
+
+After downloading the package, Run As PowerShell
+
+<img width="1139" height="177" alt="Image" src="https://github.com/user-attachments/assets/9047737b-e689-42ae-ab41-69c363b38eb2" />
+
 # Conclusion
 
 ADFortress allows you to build a strong Active Directory environment, it delivers secure defaults and mapping to CIS Benchmark, Microsoft Security Guide and other frameworks. Ready-to-use tool that makes complexity an abstraction for users, fortify your Active Directory in one click.
