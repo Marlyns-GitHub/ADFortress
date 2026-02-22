@@ -321,8 +321,6 @@ function Set-DisableIpv6 (){
             }
         else
             {
-                #Link GPO
-                $Linkgpo = New-GPLink -Name $GPOLists[5] -Target $DomainDistinguishedName
 
                 $Params = @{
                     Context   = 'Computer'
