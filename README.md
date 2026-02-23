@@ -25,6 +25,7 @@ The idea behind the ADFortress script is to automate the hardening of the Active
 | ------------------ | ---------- |------------------- | ---------- | ---------- | ------------ |
 | `NTLMv1`           | `Disabled` |     `Required`     | `Required` | `Required` |  `Optional`  |
 | `SMBv1`            | `Disabled` |     `Required`     | `Required` | `Required` |  `Optional`  |
+| `IPv6`             | `Optional` |     `Optional`     | `Optional` | `Optional` |  `Optional`  |
 | `TLSv1.0 & TLSv1.1`| `Disabled` |     `Required`     | `Required` | `Required` |  `Suffisent` |
 | `TLSv1.2 & TLSv1.3`| `Enabled`  |     `Required`     | `Required` | `Required` |  `Suffisent` |
 | `NTLMv2`           | `Enabled`  |     `Required`     | `Required` | `Required` |  `Suffisent` |
