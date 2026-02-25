@@ -17,7 +17,7 @@ function Menu_Enable
     write-host "" 
     Write-Host "Main Menu"
     Write-Host ""
-    Write-Host "     [1] Enable NTLMv2"
+    Write-Host "     [1] Enforce NTLMv2"
     Write-Host "     [2] Enable TLS1.2 and TLSv1.3 "
     Write-Host "     [3] Activate Recycle Bin & Change ms-DS-MachineAccountQuota value"
     Write-Host "     [4] Enable All"
