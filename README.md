@@ -84,7 +84,7 @@ They are security features designed to enhanced authentication processes and pro
 
 # How to use ADFortress
 
-After downloading the package, move into ADFortress and PowerShell Run As
+After downloading the package, move into ADFortress and Run PowerShell as admin
 
 <img width="1163" height="99" alt="Image" src="https://github.com/user-attachments/assets/46789837-df0e-4d83-a2b9-c02ffe1f5bb7" />
 
